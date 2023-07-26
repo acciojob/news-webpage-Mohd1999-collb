@@ -14,6 +14,7 @@
         display: flex;
         justify-content: center;
         align-items: center;
+		text-align:center;
       }
 
       .container {
@@ -39,7 +40,7 @@
         font-size: 30px;
       }
 
-      .item-1 > p {
+      .item-1 > h3 {
         background-color: white;
         margin-top: 45px;
         text-align: center;
